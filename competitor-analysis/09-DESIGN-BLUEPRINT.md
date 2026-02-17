@@ -29,16 +29,19 @@ This leverages:
 ## 📐 Recommended Page Structure (7 Sections)
 
 ### Section 1: Hero (Above the Fold)
-**Design:** Dark gradient background (#0A0F1E → #111827) with subtle animated particles or grid lines
+**Design:** Hybrid aesthetic combining the "Twilight Architectural Elegance" reference with a "Digital Blueprint to Reality" transition.
+**Background:** Deep charcoal (#0A0F1E) with an atmospheric twilight glow (#FF8C00 / #008080 accents).
 **Elements:**
-- Badge: "🇪🇺 Built for European Construction" or announcement banner
-- H1: Bold, 56-72px, white text
-- Subtitle: 20px, gray-300, 2 lines max
-- Dual CTA: "Start Free" (gradient filled) + "Watch Demo" (ghost/outlined)
-- Hero Visual: Animated product mockup or Lottie animation showing the platform
-- Trust bar below: 4-5 customer/partner logos in muted gray
+- **Central Visual (The "Hero" Animation):** A high-fidelity, photorealistic animation (or high-quality video) of a modern architectural masterpiece (based on the reference image). 
+  - **The Transition:** It starts as a glowing, neon cyan "hologram" or wireframe (BIM model). 
+  - **The Layering:** AI data particles flow through the wireframe, and physical materials (concrete, wood, glass) "print" or layer upward beautifully until the finished building is revealed in stunning twilight lighting.
+- Badge: "🇪🇺 The Intelligent Backbone of European Construction"
+- H1: **"Build Smarter. Faster. Together."**
+- Subtitle: "The AI-native intelligence platform that transforms raw data into architectural reality. From tender analysis to digital twin—all in one workspace."
+- Dual CTA: "Start Free" (vibrant emerald gradient) + "See it in Action" (glass-morphic ghost button)
+- Trust bar below: Scrolling monochrome partner logos.
 
-**Inspiration:** Klutch AI's hero layout + Merlin AI's dark aesthetic
+**Inspiration:** Procore's high-impact video + Merlin AI's futuristic glow + The reference "Modern Architectural Elegance" image.
 
 ---
 
