@@ -16,7 +16,7 @@ Example uses:
 - A supercar assembling itself  
 - A sneaker breaking into layers  
 - A watch revealing its internals  
-- A spacecraft deploying  
+- A spacecraft deploying    
 - A SaaS product visual metaphor  
 
 ---
